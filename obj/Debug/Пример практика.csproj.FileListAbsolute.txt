@@ -1,0 +1,14 @@
+C:\Users\rozal\OneDrive\Desktop\приактика+мат.мод\практика Будилов\Пример практика\Пример практика\obj\Debug\Пример практика.csproj.AssemblyReference.cache
+C:\Users\rozal\OneDrive\Desktop\приактика+мат.мод\практика Будилов\Пример практика\Пример практика\obj\Debug\MainWindow.baml
+C:\Users\rozal\OneDrive\Desktop\приактика+мат.мод\практика Будилов\Пример практика\Пример практика\obj\Debug\MainWindow.g.cs
+C:\Users\rozal\OneDrive\Desktop\приактика+мат.мод\практика Будилов\Пример практика\Пример практика\obj\Debug\App.g.cs
+C:\Users\rozal\OneDrive\Desktop\приактика+мат.мод\практика Будилов\Пример практика\Пример практика\obj\Debug\Пример практика_MarkupCompile.cache
+C:\Users\rozal\OneDrive\Desktop\приактика+мат.мод\практика Будилов\Пример практика\Пример практика\obj\Debug\Пример практика.g.resources
+C:\Users\rozal\OneDrive\Desktop\приактика+мат.мод\практика Будилов\Пример практика\Пример практика\obj\Debug\Пример_практика.Properties.Resources.resources
+C:\Users\rozal\OneDrive\Desktop\приактика+мат.мод\практика Будилов\Пример практика\Пример практика\obj\Debug\Пример практика.csproj.GenerateResource.cache
+C:\Users\rozal\OneDrive\Desktop\приактика+мат.мод\практика Будилов\Пример практика\Пример практика\obj\Debug\Пример практика.csproj.CoreCompileInputs.cache
+C:\Users\rozal\OneDrive\Desktop\приактика+мат.мод\практика Будилов\Пример практика\Пример практика\bin\Debug\Пример практика.exe.config
+C:\Users\rozal\OneDrive\Desktop\приактика+мат.мод\практика Будилов\Пример практика\Пример практика\bin\Debug\Пример практика.exe
+C:\Users\rozal\OneDrive\Desktop\приактика+мат.мод\практика Будилов\Пример практика\Пример практика\bin\Debug\Пример практика.pdb
+C:\Users\rozal\OneDrive\Desktop\приактика+мат.мод\практика Будилов\Пример практика\Пример практика\obj\Debug\Пример практика.exe
+C:\Users\rozal\OneDrive\Desktop\приактика+мат.мод\практика Будилов\Пример практика\Пример практика\obj\Debug\Пример практика.pdb
