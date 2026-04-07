@@ -1,0 +1,10 @@
+ФУНКЦИЯ UpdateLocationStats(locations):
+    ЕСЛИ locations НЕ пустой И содержит хотя бы один элемент:
+        Показать панель статистики (StatsPanel.Visibility = Visible)
+        Вывести общее количество ячеек (TotalLocationsStat.Text = количество ячеек)
+        Вывести количество свободных ячеек (FreeLocationsStat.Text = количество ячеек, где IsOccupied = ложь)
+        Вывести количество занятых ячеек (OccupiedLocationsStat.Text = количество ячеек, где IsOccupied = истина)
+    ИНАЧЕ:
+        Скрыть панель статистики (StatsPanel.Visibility = Collapsed)
+    КОНЕЦ ЕСЛИ
+КОНЕЦ ФУНКЦИИ
